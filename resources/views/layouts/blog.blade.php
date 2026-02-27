@@ -214,7 +214,7 @@ hover:bg-blue-400 transition">
 
                     {{-- Top Writers --}}
                     <div class="bg-white rounded-xl border shadow-sm p-6">
-                        <h3 class="text-lg font-semibold text-gray-800 mb-4">Top Writers</h3>
+                        <h3 class="text-lg font-semibold text-gray-800 mb-4">Pemenang TEGUH</h3>
 
                         @forelse ($top_users as $top)
                             <div class="flex items-center gap-3 py-2">
